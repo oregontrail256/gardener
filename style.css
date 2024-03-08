@@ -8,7 +8,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("your-hero-image.jpg");
+  background-image: url("http://www.groundstudio.com/wp-content/uploads/2021/10/01_moss.jpg");
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 50vh; /* You can adjust this value */
   background-position: center;
