@@ -8,7 +8,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("./IMG_4395.JPG.jpg");
+  background-image: url("IMG_4395.JPG");
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 50vh; /* You can adjust this value */
   background-position: center;
